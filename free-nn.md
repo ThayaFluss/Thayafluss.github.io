@@ -1,10 +1,11 @@
 
-# Meeting on Free Probability Theory and Mean Field Theory of Neural Networks
-## （自由確率論と神経回路網の平均場近似の会）
+# Workshop of Free Probability Theory, Mean Field Theory, and Neural Networks
+## （自由確率論, 平均場近似と神経回路網の交流会）
 
 
 ###  Date and Place
-
+2/25
+柏キャンパス
 
 
 ###  Program
