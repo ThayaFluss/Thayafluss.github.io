@@ -3,7 +3,7 @@
 ## （自由確率論と神経回路網の平均場近似の会）
 
 
-###  Place
+###  Date and Place
 
 
 
@@ -22,5 +22,5 @@
 
 
 
-### Organization 
+### Organizers
 
