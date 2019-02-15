@@ -22,5 +22,7 @@
 
 
 ### Organizers
-早瀬友裕　Tomohiro Hayase 
-長野祥大　Yoshihiro Nagano
+
+- 早瀬友裕　Tomohiro Hayase 
+
+- 長野祥大　Yoshihiro Nagano
