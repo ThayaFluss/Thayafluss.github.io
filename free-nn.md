@@ -13,7 +13,7 @@
 
 - 11:30 -- 12:00  Emergence of Spectral Universality in Deep Networks
 
-- 13:30 -- 14:30  Short Course of Free Probability Thoery
+- 13:30 -- 14:30  Short Course of Free Probability Theory
 
 - 15:00 -- 16:00  Discussion
 
