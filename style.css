@@ -4,7 +4,17 @@ body
  margin:0;
 }
 
-
+@media (min-width: 800px) {
+  #parent {
+    display: flex;
+  }
+  #child1 {
+    flex-grow: 1;
+  }
+  #child2 {
+    flex-grow: 1;
+  }
+}
 #container
 {background-color:#f6f1e5;
  width:800px;
@@ -30,14 +40,14 @@ body
 #footer
 {
   text-align: right;
-  align: right;
+  /*align: right;*/
 }
 section
 {	margin: 20px 0px 100px;
 	page-break-before: auto;
  	page-break-after: avoid;
 	font-weight: normal;
-	//font-style: italic;
+	/*font-style: italic;*/
 	text-align: left;
 }
 
@@ -86,13 +96,12 @@ subsection
 /*
 #content a, #content a:visited{
 	/*color: #006bd7;*/
-        color: #4D7E9E;
+    /*    color: #4D7E9E;
 	text-decoration: none;
 
 }*/
 
 
-}
 hr
 {
   margin: 0;
